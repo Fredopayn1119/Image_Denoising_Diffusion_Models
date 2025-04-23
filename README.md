@@ -12,12 +12,12 @@ The implementation of two types of deep learning models able to denoise images i
   - With a quality tradeoff, allows for some of the image denoising steps to be skipped.
 
 ## Run Instructions
-  - Select the file 'hw3_prob2_diffusion.ipynb'
-  - Select 'download raw file'
-  - Go to Google Colab
-  - Create a new Google Colaboratory
-  - Once created, go to File > Import notebook
-  - Import the downloaded file
-  - Run each of the cells in the notebook in order
+1. Select the file 'hw3_prob2_diffusion.ipynb'
+2. Select 'download raw file'
+3. Go to Google Colab
+4. Create a new Google Colaboratory
+5. Once created, go to File > Import notebook
+6. Import the downloaded file
+7. Run each of the cells in the notebook in order
     
 ## More Details to be Added Here Soon
