@@ -13,7 +13,7 @@ The implementation of two types of deep learning models able to denoise images i
 
 ## Run Instructions
 1. Select the file 'hw3_prob2_diffusion.ipynb'
-2. Select 'download raw file'
+2. Select 'Download raw file'
 3. Go to Google Colab
 4. Create a new Google Colaboratory
 5. Once created, go to File > Import notebook
