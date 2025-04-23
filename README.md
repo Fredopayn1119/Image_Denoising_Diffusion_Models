@@ -1,6 +1,6 @@
 # Image Denoising Diffusion Models: A School Assignment
 
-Two types of deep learning models able to denoise images iteratively
+The implementation of two types of deep learning models able to denoise images iteratively.
 
 1. **DDPM (Diffusion Denoising Probabilistic Model)**
   - Noise is iteratively added to images until they appear indistinguishable from pure Gaussian noise.
