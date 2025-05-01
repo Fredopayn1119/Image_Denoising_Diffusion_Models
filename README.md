@@ -2,7 +2,7 @@
 
 The implementation of two types of deep learning models able to denoise images iteratively.
 
-1. **DDPM (Denoising Diffusion Probabilistic Model)**
+1. **DDPM (Denoising Denoising Probabilistic Model)**
   - Noise is iteratively added to images until they appear indistinguishable from pure Gaussian noise.
   - The model then learns to do the reverse - denoise images until they are legible.
   
